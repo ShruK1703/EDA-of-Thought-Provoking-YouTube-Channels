@@ -9,4 +9,4 @@ Being new in the data field, I thought of doing an analysis on these thought-pro
 
 It might be helpful for a new audience that is trying to engage in this business, to know what has the most impact on the success of the videos, whether it's duration length, views, likes, or comments and the relation between them.
 
-This is my portfolio project and is limited to the channels of my interests. Therefore, in this project, I will perform the statistical analysis of around 6 intellectual and thought-provoking Youtube channels.
+This is my portfolio project and is limited to the channels of my interests. Therefore, in this project, I will perform the statistical analysis of around 5 intellectual and thought-provoking Youtube channels.
